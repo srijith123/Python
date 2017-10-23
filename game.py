@@ -1,0 +1,1 @@
+console.teachcode.madlabs.xyz

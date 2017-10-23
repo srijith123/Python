@@ -1,0 +1,19 @@
+#LIST
+a=[]
+b=[1,2,3,4,5]
+c=[1,2,3,'a',b,'d','e']
+print(a)
+print(b)
+print(c)
+#Appending
+print(b.append(6))
+print(b)
+print(b.reverse())
+print(b)
+print(b.pop())
+print(b)
+print(b.sort())
+print(b)
+#List in a List
+d=[[1,2],[1,3]]
+print(d)
